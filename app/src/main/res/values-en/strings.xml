@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github Search User</string>
+
+    <string name="tabfollower">Followers</string>
+    <string name="tabfollowing">Following</string>
+    <string name="search_github_user">Search Github User</string>
+</resources>

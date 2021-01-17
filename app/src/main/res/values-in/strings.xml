@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github Search User</string>
+
+    <string name="tabfollower">Pengikut</string>
+    <string name="tabfollowing">Mengikuti</string>
+    <string name="search_github_user">Cari User Github</string>
+</resources>
